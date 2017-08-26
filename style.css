@@ -38,3 +38,11 @@ h2 {
 	background-color: #666;
 	color: #fff;
 }
+
+#puzzle {
+	background: url("img/v5/v5-watermark.jpg") no-repeat;
+	background-position: 0px 0px;
+	position: relative;
+	border:5px solid #333;
+	margin: 0 auto;
+}
