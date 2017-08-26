@@ -4,3 +4,10 @@ body {
 	line-height: 18px;
 	color:#333;
 }
+
+#content {
+	width: 800px;
+	background-color: #fff;
+	padding: 20px 30px;
+	margin:0 auto;
+}
