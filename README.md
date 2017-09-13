@@ -1,6 +1,8 @@
 # css-homework-task2
 This is my CSS homework (task 2)
 
+[https://yarynayavor.github.io/css-homework-task2/](https://yarynayavor.github.io/css-homework-task2/)
+
 1)Give #puzzle block  top:100px; left:100px;  :
 
 ![screenshot1](img/1.jpg)
